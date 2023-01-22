@@ -1,5 +1,6 @@
 # Searching for tweets from last 7 days 
 # Por el tipo de cuenta solo buscará en los últimos 7 días
+# Más info para obtener las respuestas a un tweet
 
 import tweepy
 import config
