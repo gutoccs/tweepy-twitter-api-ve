@@ -1,6 +1,6 @@
 # El código base es lo que se hizo en el punto 1, pero sin comentarios
 # La idea es traer se más de 100 tweets, para ello hay que usar un paginador
-# Más info sobre el paginador: https://stackoverflow.com/questions/72016766/tweepy-only-lets-me-get-100-results-how-do-i-get-more-ive-read-about-paginati
+# Más info sobre el paginador y datos a traer: https://stackoverflow.com/questions/72016766/tweepy-only-lets-me-get-100-results-how-do-i-get-more-ive-read-about-paginati
 
 import tweepy
 import config

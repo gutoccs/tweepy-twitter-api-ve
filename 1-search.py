@@ -1,6 +1,6 @@
 # Searching for tweets from last 7 days 
 # Por el tipo de cuenta solo buscará en los últimos 7 días
-# Más info para obtener las respuestas a un tweet
+# Más info para obtener las respuestas a un tweet https://github.com/nirholas/Get-Tweet-Replies-With-Python-Tweepy/blob/master/twitter_reply.py
 
 import tweepy
 import config
