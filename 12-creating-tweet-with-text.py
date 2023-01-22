@@ -10,6 +10,7 @@ client = tweepy.Client(consumer_key=config.API_KEY,
                        access_token=config.ACCESS_TOKEN,
                        access_token_secret=config.ACCESS_TOKEN_SECRET)
 
-response = client.create_tweet(text='Soon!')
+response = client.create_tweet(text='Soon5!')
 
 print(response)
+print( response.data['id']) # Obteniendo ID del Tweet
